@@ -8,4 +8,4 @@ this is the seventh line
 this is the eight line
 this is the feature from feature1.1/master
 this is the second feature from feature1.1/master
-hi everyone hi 
+hi everyone hi
